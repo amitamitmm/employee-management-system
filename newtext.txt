@@ -1,1 +1,2 @@
 This file first will commit on development branch
+This is second line will commit on master branch
